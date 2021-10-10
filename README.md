@@ -1,16 +1,10 @@
-### FireRun - 엔트리 : http://naver.me/xmrHjgxG
-
-<!--
-**EntryFireRun/EntryFireRun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## FireRun - 엔트리 : http://naver.me/xmrHjgxG
+- 엔트리 유저 http://naver.me/xmrHjgxG
+- 카테로기 변경 코드 원조
+- 천재 아님
+### 배우거나 아는 언어
+- 한국어🇰🇷
+- 영어(배우는중)🇺🇸
+- 엔트리 (그래도 많이 앎)Entry
+- html(배우는중)html
+- python(배우는중)python
