@@ -1,4 +1,4 @@
-### Hi there 👋
+### FireRun - 엔트리 : http://naver.me/xmrHjgxG
 
 <!--
 **EntryFireRun/EntryFireRun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
