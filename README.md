@@ -2,6 +2,7 @@
 - 엔트리 유저 http://naver.me/xmrHjgxG
 - 카테로기 변경 코드 원조
 - 천재 아님
+![](https://playentry.org/uploads/hn/tf/hntfrxhqkokzbm2l1e5521dac0fj5iwf.gif)
 ### 배우거나 아는 언어
 - 한국어🇰🇷
 - 영어(배우는중)🇺🇸
