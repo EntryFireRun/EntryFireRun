@@ -5,7 +5,7 @@
 - ~~천재 아닙니다~~  
 
   ## 사용중인 IDE
-  - vscode
+  - vscode [(설치)](https://code.visualstudio.com/) [(웹버전)](https://vscode.dev)
   - [replit](http://replit.com)   
 
   ## ~~프로필 사진(?)~~
