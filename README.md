@@ -1,5 +1,5 @@
 ## FireRun, 자기소개(?)
-- 엔트리 유저 <a href="https://playentry.org/profile/5facc4019089070304dc9ce5?sort=created&term=all"><img src=""/>![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile-green?style=flat-square)</a>
+- 엔트리 유저 <a href="https://playentry.org/profile/5facc4019089070304dc9ce5?sort=created&term=all">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile-green?style=flat-square)</a>
 - 카테고기 변경 코드 **2**번째 발견자(?)
 - ~~천재 아닙니다~~
 ---
