@@ -4,7 +4,7 @@
 - ~~천재 아닙니다~~
 ### 사용중인 IDE
 - vscode
-- [replit](replit.com)
+- [replit](http://replit.com)
 ---
 ### ~~프로필 사진(?)~~
 ![](/FireRun.png)
