@@ -43,5 +43,7 @@
 
 # 진짜 리얼 깃허브 정보들
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entryfirerun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 사용 언어/소셜/프로그램
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=Replit&logoColor=white"/>
 ---
 **착각하지마세요, 여기는 제 위키라 아니라 깃허브 소개입니다!**
