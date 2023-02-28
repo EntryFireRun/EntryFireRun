@@ -12,9 +12,9 @@
   - [replit](http://replit.com) 
   - [구름IDE](https://www.goorm.io/)
   - ~~[VS2023](https://visualstudio.microsoft.com/)~~ 현재 사용을 안하고 있음
-  - ~~메모장~~
-  - ~~파이썬 기본~~
-  - ~~유니티~~ 현재 사용을 하지 안하고 있음
+  - ~~[윈도우 메모장](Windows Notepad https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)~~
+  - ~~[파이썬 기본](https://python.org/)~~ 누가 쓸까요(?)
+  - ~~[유니티](https://unity.com/)~~ 현재 사용을 하지 안하고 있음
 
   ## ~~프로필 사진(?)~~
   <img src="FireRun.png" width=10% heigth=10%>
