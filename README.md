@@ -7,9 +7,14 @@
 - 이메일 [entry@firerun.kro.kr](mailto:entry@firerun.kro.kr)
 - ~~허니츄러스 팬 이름 과메기단, 허니비중 허니비를 지지하고 있습니다~~
 
-  ## 사용중인 IDE
+  ## 사용중인 IDE(또는 IDE 비슷한거)
   - vscode [(설치)](https://code.visualstudio.com/) [(웹버전)](https://vscode.dev)
-  - [replit](http://replit.com)   
+  - [replit](http://replit.com) 
+  - [구름IDE](https://www.goorm.io/)
+  - ~~[VS2023](https://visualstudio.microsoft.com/)~~ 현재 사용을 안하고 있음
+  - ~~메모장~~
+  - ~~파이썬 기본~~
+  - ~~유니티~~ 현재 사용을 하지 안하고 있음
 
   ## ~~프로필 사진(?)~~
   <img src="FireRun.png" width=10% heigth=10%>
