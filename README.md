@@ -41,6 +41,7 @@
 김잔상님 | ent2 리뉴얼 후 버전 개발하신분, 하지만 엔트리의 취약점을 악용하시지만 ~~저는 안당했으니 상관없는분!~~
 냠냠이 | 쓸꺼없어서 적은거에요 이해해주세요
 
-
+# 진짜 리얼 깃허브 정보들
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entryfirerun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 **착각하지마세요, 여기는 제 위키라 아니라 깃허브 소개입니다!**
