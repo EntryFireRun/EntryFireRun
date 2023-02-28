@@ -12,9 +12,10 @@
   - [replit](http://replit.com) | 메인으로 사용
   - [구름IDE](https://www.goorm.io/) | 자주 사용을 안하고 있음
   - ~~[VS2023](https://visualstudio.microsoft.com/)~~ | 현재 사용을 안하고 있음
-  - ~~[윈도우 메모장](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)~~
+  - ~~[윈도우 메모장](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)~~ | 이상한 소리 하지 말라고요? 알겠습니다
   - ~~[파이썬 기본](https://python.org/)~~ | 누가 쓸까요(?)
   - ~~[유니티](https://unity.com/)~~ | 현재 사용을 하지 안하고 있음
+  - [파이참](https://jetbrains.com/ko-kr/pycharm/) | 코딩학원에서 사용
 
   ## ~~프로필 사진(?)~~
   <img src="FireRun.png" width=10% heigth=10%>
