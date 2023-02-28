@@ -8,13 +8,13 @@
 - ~~허니츄러스 팬 이름 과메기단, 허니비중 허니비를 지지하고 있습니다~~
 
   ## 사용중인 IDE(또는 IDE 비슷한거)
-  - vscode [(설치)](https://code.visualstudio.com/) [(웹버전)](https://vscode.dev)
-  - [replit](http://replit.com) 
-  - [구름IDE](https://www.goorm.io/)
-  - ~~[VS2023](https://visualstudio.microsoft.com/)~~ 현재 사용을 안하고 있음
+  - vscode [(설치)](https://code.visualstudio.com/) [(웹버전)](https://vscode.dev) | 확장에서 python설치하면 pythonIDE완성(?)
+  - [replit](http://replit.com) | 메인으로 사용
+  - [구름IDE](https://www.goorm.io/) | 자주 사용을 안하고 있음
+  - ~~[VS2023](https://visualstudio.microsoft.com/)~~ | 현재 사용을 안하고 있음
   - ~~[윈도우 메모장](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)~~
-  - ~~[파이썬 기본](https://python.org/)~~ 누가 쓸까요(?)
-  - ~~[유니티](https://unity.com/)~~ 현재 사용을 하지 안하고 있음
+  - ~~[파이썬 기본](https://python.org/)~~ | 누가 쓸까요(?)
+  - ~~[유니티](https://unity.com/)~~ | 현재 사용을 하지 안하고 있음
 
   ## ~~프로필 사진(?)~~
   <img src="FireRun.png" width=10% heigth=10%>
