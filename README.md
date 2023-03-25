@@ -10,20 +10,20 @@
 - 엔트리 작품중 운영자 방문 작품 존재! ~~자랑~~
 - 성별 : 남자
 
-  ## 사용중인 IDE(또는 IDE 비슷한거)
+  ## 사용중인 IDE
   - vscode [(설치)](https://code.visualstudio.com/) [(웹버전)](https://vscode.dev) | 확장에서 python설치하면 pythonIDE완성(?)
   - [replit](http://replit.com) | 메인으로 사용
   - [구름IDE](https://www.goorm.io/) | 자주 사용을 안하고 있음
   - ~~[VS2022](https://visualstudio.microsoft.com/)~~ | 현재 사용을 안하고 있음
   - ~~[윈도우 메모장](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)~~ | 이상한 소리 하지 말라고요? 알겠습니다
-  - ~~[파이썬 기본](https://python.org/)~~ | 누가 쓸까요(?)
+  - ~~[파이썬 IDLE](https://python.org/)~~ | 누가 쓸까요(?)
   - ~~[유니티](https://unity.com/)~~ | 현재 사용을 하지 안하고 있음
   - [파이참](https://jetbrains.com/ko-kr/pycharm/) | 코딩학원에서 사용
 
-  ## ~~프로필 사진(?)~~
-  <img src="FireRun.png" width=10% heigth=10%>
+  ## 배너, 프로필 이미지
+  <img src="FireRun.png" width=10% heigth=10%><img src="banner.png" width=50% heigth=50%>
 
-  ## 그냥 생각나는 단어를 쓰다보면 뭐가 나오겠죠 그냥 이렇게만 쳐도 제목은 완성이 안될껍니다 전 또 뭔 헛소리를 하는걸까요 궁금하네요 인간이 가장큰 공포를 느끼지못한다는 글쓰기<br>
+  ## 현재 상태 (언어)<br>
 
   언어 | 상태
   ---- | --
