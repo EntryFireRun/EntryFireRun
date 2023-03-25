@@ -23,7 +23,7 @@
   ## 배너, 프로필 이미지
   <img src="FireRun.png" width=10% heigth=10%><img src="banner.png" width=50% heigth=50%>
 
-  ## 현재 상태 (언어)<br>
+  ## 현재 상태 (언어)
 
   언어 | 상태
   ---- | --
@@ -37,7 +37,7 @@
   ## 다른 유저와의 관계
   유저 | 관계
   --- | ---
-  (엔에이님)[https://playentry.org/profile/5eb4ff2d223e9e00566a4384/] | 지금의 제 프로필을 만들어주신 멋진분!
+  [엔에이님](https://playentry.org/profile/5eb4ff2d223e9e00566a4384/) | 지금의 제 프로필을 만들어주신 멋진분!
   [김잔상님](https://github.com/Atobe1108) | [ent2](http://www.ent2.ml/) 리뉴얼 후 버전 개발하신분, 하지만 엔트리의 취약점을 악용하시지만 ~~저는 안당했으니 상관없는분!~~
 <br>
 
