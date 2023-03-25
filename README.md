@@ -38,8 +38,7 @@
 유저 | 관계
 --- | ---
 엔에이님 | 지금의 제 프로필을 만들어주신 멋진분!
-김잔상님 | ent2 리뉴얼 후 버전 개발하신분, 하지만 엔트리의 취약점을 악용하시지만 ~~저는 안당했으니 상관없는분!~~
-냠냠이 | 쓸꺼없어서 적은거에요 이해해주세요
+[김잔상님](https://github.com/Atobe1108) | ent2 리뉴얼 후 버전 개발하신분, 하지만 엔트리의 취약점을 악용하시지만 ~~저는 안당했으니 상관없는분!~~
 
 # 진짜 리얼 깃허브 정보들
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entryfirerun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
