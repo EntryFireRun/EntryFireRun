@@ -4,7 +4,7 @@
 - 카테고기 변경 코드 **2**번째 발견자(?)
 - 엔트리 취약점(xxs) 2개 발견한 유저(?) / **( 엔트리 오브젝트 이름으로 하는 xxs는 제가 발견한게 아닙니다 )**
 - 프로필 제작자 : 엔에이(NA)
-- 이메일 [entry@firerun.kro.kr](mailto:entry@firerun.kro.kr)
+- 이메일 : [entry@firerun.kro.kr](mailto:entry@firerun.kro.kr)
 - 거주 : 대전광역시
 - ~~허니츄러스 팬 이름 과메기단, 허니비중 허니비를 지지하고 있습니다~~
 - 엔트리 작품중 운영자 방문 작품 존재! ~~자랑~~
@@ -46,3 +46,4 @@
   <a href="https://www.w3.org/"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>  <a href="https://www.w3.org/"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>  <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a>  <a href="https://daringfireball.net/"> <a href="https://daringfireball.net"/><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/></a><br> <a href="http://replit.com"><img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=Replit&logoColor=white"/></a> <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a><br> <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>  <a href="https://www.twitch.tv/"><img src="https://img.shields.io/badge/Twitch-181717?style=flat&logo=Twitch&logoColor=white"/></a>  <a href="http://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>  <a href="http://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>  <a href="https://obsproject.com/"><img src="https://img.shields.io/badge/OBS Studio-302E31?style=flat&logo=OBS Studio&logoColor=white"/></a>
 ---
 **착각하지마세요, 여기는 제 위키라 아니라 깃허브 소개입니다!**
+**영어 그게 뭔가요 먹는건가**
