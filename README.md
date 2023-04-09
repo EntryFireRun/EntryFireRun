@@ -1,7 +1,7 @@
 # 안녕하세요! 파이어런입니다!  
 ---
 - 엔트리 유저 <a href="https://playentry.org/profile/5facc4019089070304dc9ce5?sort=created&term=all">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile-green?style=flat-square)</a>
-- 카테고기 변경 코드 **2**번째 발견자(?)
+- 카테고리 변경 코드 **2**번째 발견자(?)
 - 엔트리 취약점(xxs) 2개 발견한 유저(?) / **( 엔트리 오브젝트 이름으로 하는 xxs는 제가 발견한게 아닙니다 )**
 - 프로필 제작자 : 엔에이(NA)
 - 이메일 : [entry@firerun.kro.kr](mailto:entry@firerun.kro.kr)
