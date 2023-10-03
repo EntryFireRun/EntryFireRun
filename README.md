@@ -2,7 +2,7 @@
 ---
 - 엔트리 유저 <a href="https://playentry.org/profile/5facc4019089070304dc9ce5?sort=created&term=all">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile-green?style=flat-square)</a>
 - 카테고리 변경 코드 **2**번째 발견자(?)
-- 엔트리 취약점(xxs) 2개 발견한 유저(?) / **( 엔트리 오브젝트 이름으로 하는 xxs는 제가 발견한게 아닙니다 )**
+- 엔트리 취약점(xxs) 3개 발견한 유저(?) / **( 프린트 페이지에서 작품 제목을 코드로 읽는 취약점, 외부페이지로 넘어가는 링크에 자바스크립트 삽입 가능한 취약점, 아직 공개하지 않은 샌즈한 취약점[많이 당할 것 같지는 않은] )**
 - 프로필 제작자 : 엔에이(NA)
 - 이메일 : [entry@firerun.kro.kr](mailto:entry@firerun.kro.kr)
 - 거주 : 대전광역시
