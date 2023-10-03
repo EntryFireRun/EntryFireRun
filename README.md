@@ -31,16 +31,16 @@
   언어 | 상태
   ---- | --
   엔트리 | 초보
-  스크래치 | 왕초보
-  스크래치 쥬니어 | 왕초보
-  레드브릭 | 왕초보
-  로블록스 스튜디오 | 왕초보
-  html, css | 독학
-  python | 배우는중...
+  스크래치 | 초보
+  스크래치 쥬니어 | 초보
+  레드브릭 | 초보
+  로블록스 스튜디오 | 초보
+  html, css | 배우는중...
+  python | 중수(?)
   Javascript | 독학
   
-  ## 다른 유저와의 관계
-  유저 | 관계
+  ## 다른 유저와의 특이점(?)
+  유저 | 특이점(?)
   --- | ---
   [엔에이님](https://playentry.org/profile/5eb4ff2d223e9e00566a4384/) | 지금의 [제 프로필](./FireRun.png)을 만들어주신 멋진분!
   [김잔상님](https://github.com/Atobe1108) | [ent2](http://www.ent2.ml/) 리뉴얼 후 버전 개발하신분, 하지만 엔트리의 취약점을 악용하시지만 ~~저는 안당했으니 상관없는분!~~
@@ -49,7 +49,7 @@
 ---
 <br>
 
-# 진짜 리얼 깃허브 정보들
+# 진짜 리AL 깃hub 정보들
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entryfirerun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   ## 사용 언어/소셜/프로그램
   <a href="https://www.w3.org/"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>  <a href="https://www.w3.org/"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>  <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a>  <a href="https://daringfireball.net/"> <a href="https://daringfireball.net"/><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/></a><br> <a href="http://replit.com"><img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=Replit&logoColor=white"/></a> <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a><br> <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>  <a href="https://www.twitch.tv/"><img src="https://img.shields.io/badge/Twitch-181717?style=flat&logo=Twitch&logoColor=white"/></a>  <a href="http://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>  <a href="http://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>  <a href="https://obsproject.com/"><img src="https://img.shields.io/badge/OBS Studio-302E31?style=flat&logo=OBS Studio&logoColor=white"/></a>
