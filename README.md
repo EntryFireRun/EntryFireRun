@@ -10,7 +10,7 @@
 - 엔트리 작품중 엔프 방문 작품 존재! ~~자랑~~
 - 성별 : 남자
 
-  ## 사용중인 IDE
+  ## 사용해본 IDE
   - vscode [(설치)](https://code.visualstudio.com/) [(웹버전)](https://vscode.dev) | 확장에서 python설치하면 pythonIDE완성(?)
   - [replit](http://replit.com)
   - ~~[구름IDE](https://www.goorm.io/)~~ | 사용 안함
@@ -22,7 +22,7 @@
   - [로블록스 스튜디오](https://create.roblox.com/)
   - [엔트리 오프라인](https://playentry.org/download/offline)
   - ~~[스크레치](https://scratch.mit.edu/)~~ | 사용 안함
-
+  - ~~[안드로이드 스튜디오](https://developer.android.com/studio)~~ | 사용 안함
   ## 배너, 프로필 이미지
   <img src="FireRun.png" width=10% heigth=10%><img src="banner.png" width=50% heigth=50%>
 
