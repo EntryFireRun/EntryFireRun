@@ -18,7 +18,7 @@
   - ~~[윈도우 메모장](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)~~ | 이상한 소리 하지 말라고요? 알겠습니다
   - ~~[파이썬 IDLE](https://python.org/)~~ | 누가 쓸까요(?)
   - [유니티](https://unity.com/)
-  - [파이참](https://jetbrains.com/ko-kr/pycharm/) | 사용 안함
+  - ~~[파이참](https://jetbrains.com/ko-kr/pycharm/)~~ | 사용 안함
   - [로블록스 스튜디오](https://create.roblox.com/)
   - [엔트리 오프라인](https://playentry.org/download/offline)
   - ~~[스크래치](https://scratch.mit.edu/)~~ | 사용 안함
