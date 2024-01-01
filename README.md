@@ -18,10 +18,10 @@
   - ~~[윈도우 메모장](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)~~ | 이상한 소리 하지 말라고요? 알겠습니다
   - ~~[파이썬 IDLE](https://python.org/)~~ | 누가 쓸까요(?)
   - [유니티](https://unity.com/)
-  - [파이참](https://jetbrains.com/ko-kr/pycharm/) | 코딩학원에서 사용
+  - [파이참](https://jetbrains.com/ko-kr/pycharm/) | 사용 안함
   - [로블록스 스튜디오](https://create.roblox.com/)
   - [엔트리 오프라인](https://playentry.org/download/offline)
-  - ~~[스크레치](https://scratch.mit.edu/)~~ | 사용 안함
+  - ~~[스크래치](https://scratch.mit.edu/)~~ | 사용 안함
   - ~~[안드로이드 스튜디오](https://developer.android.com/studio)~~ | 사용 안함
   ## 배너, 프로필 이미지
   <img src="FireRun.png" width=10% heigth=10%><img src="banner.png" width=50% heigth=50%>
