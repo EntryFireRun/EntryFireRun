@@ -3,9 +3,9 @@
 - 엔트리 유저 <a href="https://playentry.org/profile/64b27bd05ebb6c00251dc5f5/">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile%201-green?style=flat-square)</a> <a href="https://playentry.org/profile/6415158297bafa011b552344/project?sort=created&term=all&isOpen=all">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile%202-green?style=flat-square)</a> <a href="https://playentry.org/profile/654f4f89fa8f4e00258c15d4/project?sort=created&term=all&isOpen=all">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile%203-green?style=flat-square)</a>
 - 카테고리 변경 코드 **2**번째 발견자(?)
 - 엔트리 취약점(xxs) 4개 발견한 유저(?)
-  - 프린트 페이지에서 작품 제목을 코드로 읽는 취약점
-  - 외부페이지로 넘어가는 링크에 자바스크립트 삽입 가능한 취약점
-  - 아직 공개하지 않은 샌즈한 취약점 2개
+  - 외부페이지로 넘어가는 링크에 자바스크립트 삽입 가능한 취약점 ( 발견일 : 2023년 01월 31일 )
+  - 프린트 페이지에서 작품 제목을 코드로 읽는 취약점 ( 발견일 : 2023년 02월 27일 )
+  - 아직 공개하지 않은 샌즈한 취약점 2개 ( 발견일 : 2023년 9월 17일, 2024년 03월 30일 )
 - 프로필 제작자 : 엔에이(NA)
 - 이메일 : [entry@firerun.kro.kr](mailto:entry@firerun.kro.kr)
 - 거주 : 대전광역시
