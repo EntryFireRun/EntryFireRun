@@ -1,6 +1,6 @@
 # 안녕하세요! 파이어런입니다!  
 ---
-- 엔트리 유저 <a href="https://playentry.org/profile/64b27bd05ebb6c00251dc5f5/">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile%201-green?style=flat-square)</a> <a href="https://playentry.org/profile/6415158297bafa011b552344/project?sort=created&term=all&isOpen=all">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile%202-green?style=flat-square)</a> <a href="https://playentry.org/profile/654f4f89fa8f4e00258c15d4/project?sort=created&term=all&isOpen=all">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile%203-green?style=flat-square)</a>
+- 엔트리 유저 <a href="https://playentry.org/profile/64b27bd05ebb6c00251dc5f5/">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile%201-green?style=flat-square)</a> <a href="https://playentry.org/profile/6415158297bafa011b552344/project?sort=created&term=all&isOpen=all">![엔트리 마이페이지](https://img.shields.io/badge/Entry-Profile%202-green?style=flat-square)</a>
 - 카테고리 변경 코드 **2**번째 발견자(?)
 - 엔트리 취약점(xxs) 5개 발견한 유저(?)
   - 외부페이지로 넘어가는 링크에 자바스크립트 삽입 가능한 취약점 ( 발견일 : 2023년 01월 31일, 막힘 )
