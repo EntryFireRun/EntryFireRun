@@ -30,18 +30,19 @@
   ## 배너, 프로필 이미지
   <img src="FireRun.png" width=10% heigth=10%><img src="banner.png" width=50% heigth=50%>
 
-  ## 마크업/코딩 언어 현황
+  ## 사용할 수 있는 언어
 
-  언어 | 상태
-  ---- | --
-  엔트리 | 초보
-  스크래치 | 초보
-  스크래치 쥬니어 | 초보
-  레드브릭 | 초보
-  로블록스 스튜디오 | 초보
-  html, css | 배우는중...
-  python | 중수(?)
-  Javascript | 독학
+  언어 |
+  ---- |
+  엔트리
+  스크래치 
+  스크래치 쥬니어 
+  로블록스 스튜디오 
+  html
+  css
+  python 
+  Javascript
+  MarkDown
   
   ## 다른 유저와의 특이점(?)
   유저 | 특이점(?)
