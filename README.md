@@ -15,15 +15,15 @@
 - 성별 : 남자
 
   ## 사용해본 IDE
-  - vscode [(설치)](https://code.visualstudio.com/) [(웹버전)](https://vscode.dev) | 확장에서 python설치하면 pythonIDE완성(?)
-  - [replit](http://replit.com)
-  - ~~[구름IDE](https://www.goorm.io/)~~ | 사용 안함
-  - ~~[VS2022](https://visualstudio.microsoft.com/)~~ | 사용 안함
+  - vscode [(설치)](https://code.visualstudio.com/) [(웹버전)](https://vscode.dev) | 아마도 IDE
+  - ~~[replit](http://replit.com)  ~~ | 사용 안 함
+  - ~~[구름IDE](https://www.goorm.io/)~~ | 사용 안 함
+  - ~~[VS2022](https://visualstudio.microsoft.com/)~~ | 사용 안 함
   - ~~[윈도우 메모장](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)~~ | 이상한 소리 하지 말라고요? 알겠습니다
-  - ~~[파이썬 IDLE](https://python.org/)~~ | 누가 쓸까요(?)
-  - [유니티](https://unity.com/)
-  - ~~[파이참](https://jetbrains.com/ko-kr/pycharm/)~~ | 사용 안함
-  - [로블록스 스튜디오](https://create.roblox.com/)
+  - ~~[파이썬 IDLE](https://python.org/)~~ | 사용 안 함
+  - ~~[유니티](https://unity.com/)~~ | 사용 안 함
+  - ~~[파이참](https://jetbrains.com/ko-kr/pycharm/)~~ | 사용 안 함
+  - ~~[로블록스 스튜디오](https://create.roblox.com/) ~~ | 사용 안 함
   - [엔트리 오프라인](https://playentry.org/download/offline)
   - ~~[스크래치](https://scratch.mit.edu/)~~ | 사용 안함
   - ~~[안드로이드 스튜디오](https://developer.android.com/studio)~~ | 사용 안함
